@@ -1,0 +1,10 @@
+fastmcp 
+nest_asyncio 
+ddgs
+uvicorn 
+requests 
+langchain
+langchain 
+langchain-community
+bs4
+langchain-text-splitters
